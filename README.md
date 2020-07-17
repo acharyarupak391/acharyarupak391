@@ -10,6 +10,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on some Deep Learning projects
 - 🤔 I’m looking for help with ...
 - 📫 How to reach me: @acharyarupak391 (Gmail, twitter, Github, Instagram)
-- ⚡ Fun fact: It's fun to code UNTIL YOU START TO HAVE A MENTAL BREAKDOWN 
+- ⚡ Fun fact: It's fun to code UNTIL YOU START HAVING A MENTAL BREAKDOWN 
 
 ## Happy Coding!
